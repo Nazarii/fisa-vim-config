@@ -1,7 +1,7 @@
 fisa-vim-config
 ===============
 
-my vim configuration (lot of python, autocompletion, fuzzy finder, debugger, ...)
+ my vim configuration (lot of python, autocompletion, fuzzy finder, debugger, ...)
 
 What is this?
 -------------
